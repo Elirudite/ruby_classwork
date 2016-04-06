@@ -33,7 +33,6 @@ class Vehicle
 	# def color
 	# 	@color
 	# end
-
 end
 
 car = Vehicle.new("Tesla", "Model 3", 2017, 35000, "Black" )

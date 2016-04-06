@@ -1,7 +1,7 @@
 
 def get_number
 	puts "Please give me two numbers..."
-	num = gets.chompe 1
+	num = gets.chomps
 end
 
 def zero_check(num)
